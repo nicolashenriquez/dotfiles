@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = nicolas.henriquez@alumnos.usm.cl
+	name = Nicolas Henriquez
